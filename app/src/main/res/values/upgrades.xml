@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arcadeUpgrade1Title">INCREASE LIFE</string>
+    <string name="arcadeUpgrade1Description">Increases the total amount of life given at the start of the game</string>
+    <string-array name="arcade1UpgradeCost">
+		<item>700</item>
+		<item>1500</item>
+		<item>3000</item>
+		<item>5000</item>
+		<item>10000</item>
+		<item>20000</item>
+		<item>50000</item>
+	</string-array>
+	<string-array name="arcade1UpgradeValues">
+		<item>350</item>
+		<item>400</item>
+		<item>500</item>
+		<item>600</item>
+		<item>700</item>
+		<item>800</item>
+		<item>900</item>
+	</string-array>
+	<string name="arcadeUpgrade2Title">INCREASE SPECIAL LINE LIFE</string>
+    <string name="arcadeUpgrade2Description">Increases the amount of life special lines are spawned with</string>
+    <string-array name="arcade2UpgradeCost">
+		<item>500</item>
+		<item>1000</item>
+		<item>2000</item>
+		<item>4000</item>
+		<item>7000</item>
+		<item>13000</item>
+		<item>20000</item>
+		<item>30000</item>
+		<item>50000</item>
+	</string-array>
+	<string-array name="arcade2UpgradeValues">
+		<item>1.1</item>
+		<item>1.2</item>
+		<item>1.3</item>
+		<item>1.4</item>
+		<item>1.5</item>
+		<item>1.6</item>
+		<item>1.7</item>
+		<item>1.8</item>
+		<item>2</item>
+	</string-array>
+	<string name="arcadeUpgrade3Title">SPECIAL LINE SPAWN DEPTH</string>
+    <string name="arcadeUpgrade3Description">Reduce the depth that special lines are spawned at in the line stack</string>
+    <string-array name="arcade3UpgradeCost">
+        <item>3000</item>
+		<item>8000</item>
+		<item>15000</item>
+		<item>25000</item>
+		<item>42000</item>
+	</string-array>
+	<string-array name="arcade3UpgradeValues">
+	    <item>9</item>
+		<item>8</item>
+		<item>7</item>
+		<item>6</item>
+		<item>5</item>
+	</string-array>
+	<string name="arcadeUpgrade4Title">FREEZE BONUS</string>
+    <string name="arcadeUpgrade4Description">Increases the duration of the freeze bonus</string>
+    <string-array name="arcade4UpgradeCost">
+		<item>600</item>
+		<item>1100</item>
+		<item>2500</item>
+		<item>5000</item>
+		<item>8000</item>
+		<item>14000</item>
+		<item>25000</item>
+	</string-array>
+	<string-array name="arcade4UpgradeValues">
+		<item>900</item>
+		<item>950</item>
+		<item>1025</item>
+		<item>1100</item>
+		<item>1180</item>
+		<item>1280</item>
+		<item>1400</item>
+	</string-array>
+	<string name="arcadeUpgrade5Title">HIGHLIGHT BONUS</string>
+    <string name="arcadeUpgrade5Description">Increases the duration of the highlight bonus</string>
+    <string-array name="arcade5UpgradeCost">
+		<item>700</item>
+		<item>1600</item>
+		<item>3500</item>
+		<item>8000</item>
+		<item>15000</item>
+		<item>25000</item>
+	</string-array>
+	<string-array name="arcade5UpgradeValues">
+		<item>1400</item>
+		<item>1600</item>
+		<item>1900</item>
+		<item>2200</item>
+		<item>2500</item>
+		<item>3000</item>
+	</string-array>
+	<string name="arcadeUpgrade6Title">INCREASE MULTIPLIER BONUS</string>
+    <string name="arcadeUpgrade6Description">Increases the value of the multiplier bonus line</string>
+    <string-array name="arcade6UpgradeCost">
+		<item>1500</item>
+		<item>3000</item>
+		<item>5000</item>
+		<item>8000</item>
+		<item>15000</item>
+		<item>23000</item>
+		<item>40000</item>
+		<item>75000</item>
+	</string-array>
+	<string-array name="arcade6UpgradeValues">
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+		<item>8</item>
+		<item>9</item>
+	</string-array>
+	<string name="arcadeUpgrade7Title">INCREASE DIAMOND BONUS</string>
+    <string name="arcadeUpgrade7Description">Increases the value of the diamond bonus line</string>
+    <string-array name="arcade7UpgradeCost">
+		<item>3000</item>
+		<item>5000</item>
+		<item>11000</item>
+		<item>20000</item>
+		<item>30000</item>
+		<item>46000</item>
+		<item>70000</item>
+		<item>100000</item>
+	</string-array>
+	<string-array name="arcade7UpgradeValues">
+		<item>7</item>
+		<item>9</item>
+		<item>12</item>
+		<item>15</item>
+		<item>20</item>
+		<item>25</item>
+		<item>30</item>
+		<item>40</item>
+	</string-array>
+	<string name="arcadeUpgrade8Title">DECREASE LOCK TAPS</string>
+    <string name="arcadeUpgrade8Description">Decreases the amount of taps needed on a lock line to unlock it</string>
+    <string-array name="arcade8UpgradeCost">
+		<item>5000</item>
+		<item>9000</item>
+		<item>20000</item>
+		<item>40000</item>
+	</string-array>
+	<string-array name="arcade8UpgradeValues">
+		<item>5</item>
+		<item>4</item>
+		<item>3</item>
+		<item>2</item>
+	</string-array>
+	<string name="arcadeUpgrade9Title">INCREASE COIN BONUS</string>
+    <string name="arcadeUpgrade9Description">Increases the amount of coins earned when tapping the coin bonus line</string>
+    <string-array name="arcade9UpgradeCost">
+		<item>500</item>
+		<item>2000</item>
+		<item>5000</item>
+		<item>12000</item>
+		<item>25000</item>
+		<item>50000</item>
+		<item>75000</item>
+		<item>100000</item>
+	</string-array>
+	<string-array name="arcade9UpgradeValues">
+		<item>12</item>
+		<item>15</item>
+		<item>22</item>
+		<item>35</item>
+		<item>60</item>
+		<item>100</item>
+		<item>150</item>
+		<item>200</item>
+	</string-array>
+	<string name="arcadeUpgrade10Title">INCREASE FLASH BONUS</string>
+    <string name="arcadeUpgrade10Description">Increases the amount of lines removed when tapping the flash bonus line</string>
+    <string-array name="arcade10UpgradeCost">
+		<item>400</item>
+		<item>1000</item>
+		<item>1500</item>
+		<item>2200</item>
+		<item>3500</item>
+		<item>6000</item>
+		<item>10000</item>
+		<item>18000</item>
+		<item>28000</item>
+		<item>45000</item>
+	</string-array>
+	<string-array name="arcade10UpgradeValues">
+		<item>11</item>
+		<item>12</item>
+		<item>13</item>
+		<item>14</item>
+		<item>15</item>
+		<item>16</item>
+		<item>17</item>
+		<item>18</item>
+		<item>19</item>
+		<item>20</item>
+	</string-array>
+</resources>

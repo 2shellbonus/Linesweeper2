@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent"
+    android:background="#000000">
+    
+    <org.andengine.opengl.view.RenderSurfaceView 
+         		android:id="@+id/gameview"
+				android:layout_width="fill_parent" 
+				android:layout_height="fill_parent"
+				android:layout_gravity="center_horizontal"
+				
+				 />
+
+	    <!--  <com.google.android.gms.plus.PlusOneButton
+		  xmlns:plus="http://schemas.android.com/apk/lib/com.google.android.gms.plus"
+		  android:id="@+id/plus_one_button"
+		  android:layout_width="wrap_content"
+		  android:layout_height="wrap_content"
+		  android:layout_gravity="bottom|center_horizontal"
+		  android:layout_marginBottom="10dp"
+		  plus:size="standard"
+		  plus:annotation="inline" />-->
+    
+    
+        <com.google.android.gms.ads.AdView 
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/game_ad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adUnitId="ca-app-pub-7189224435004907/1753712073"
+        ads:adSize="SMART_BANNER"
+        
+        
+        
+        android:layout_gravity="bottom|center"
+        android:gravity="bottom|right"
+        
+        android:visibility="invisible"
+         />
+        
+
+</FrameLayout>
+    

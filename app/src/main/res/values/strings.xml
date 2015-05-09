@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="Play">PLAY</string>
+	<string name="Linesweeper">LineSweeper</string>
+	<string name="PlayLinesweeper">PLAY LINESWEEPER</string>
+	<string name="Frenzy">PLAY TIME FRENZY</string>
+	<string name="View">VIEW</string>
+	<string name="Adjust">ADJUST</string>
+	<string name="ShareGame">SHARE</string>
+	<string name="Result">RESULT</string>
+	<string name="RateGame">RATE GAME</string>
+	<string name="Game">GAME</string>
+	<string name="Return">RETURN TO</string>
+	<string name="MainMenu">MAIN MENU</string>
+	<string name="TapTop">TAP THE TOP LINE</string>
+	<string name="TapTopFrenzy">YOU HAVE 15 SECONDS</string>
+	<string name="MissGameOver">IF YOU MISS ITS GAME OVER</string>
+	<string name="DontShow">DONT SHOW AGAIN</string>
+	<string name="BestScore">HIGHSCORE</string>
+	<string name="BestTime">BEST TIME</string>
+	<string name="Again">AGAIN</string>
+	<string name="PlayAgain">PLAY AGAIN</string>
+	<string name="Great">GREAT!</string>
+	<string name="Excellent">EXCELLENT!</string>
+	<string name="Amazing">Amazing!</string>
+	<string name="AmazingNotification">AMAZING!</string>
+	<string name="NewRecord">NEW RECORD!</string>
+	<string name="Lines">LINES!</string>
+	<string name="AmazingDescription">YOU’VE BEATEN YOUR BEST SCORE!\n\nCHALLENGE YOUR FRIENDS AND LET THEM\nKNOW HOW AWESOME YOU ARE!</string>
+	<string name="AmazingDescriptionFrenzy">YOU’VE BEATEN YOUR BEST TIME!\nSEE IF YOU CAN DO BETTER NEXT TIME!</string>
+	<string name="ShareResult">SHARE YOUR ACHIEVEMENT!</string>
+
+	<string name="Resume">RESUME GAME</string>
+	<string name="GamePaused">Game Paused</string>
+	<string name="FrenzyDescription">REMOVE AS MANY LINES AS YOU CAN</string>
+	<string name="Settings">SETTINGS</string>
+	<string name="SettingsHeader">Settings</string>
+	<string name="Online">RANKINGS</string>
+	<string name="Score">SCORE</string>
+	<string name="ReturnHome">RETURN HOME</string>
+	<string name="GameOver">Game Over</string>
+	<string name="ShareVia">SHARE RESULT VIA...</string>
+	<string name="Twitter">TWITTER</string>
+	<string name="Facebook">FACEBOOK</string>
+	<string name="OtherApp">OTHER APP</string>
+	<string name="Time">TIME LEFT</string>
+	<string name="PlusLife">+Life</string>
+	<string name="PlusSecond1">+0.5s</string>
+	<string name="PlusSecond2">+1.0s</string>
+	<string name="PlusSecond3">+2.0s</string>
+	<string name="MinusSecond">-1.0s</string>
+
+	<string name="facebook_app_id">1080391991977859</string>
+	<string name="FacebookTitle">Check out my score in Linesweeper!</string>
+	<string name="FacebookDescription">OMG! I scored</string>
+	<string name="FacebookDescription1">points in #Linesweeper! Think you can do better? Get it for #Android here: https://play.google.com/store/apps/details?id=com.twoshellko.linesweeper</string>
+	<string name="app_name">Linesweeper</string>
+
+
+	<string name="Multiplier">MULTIPLIER</string>
+	<string name="LinesRemoved">LINES REMOVED</string>
+	<string name="ResumeGame">RESUME</string>
+	<string name="NewGame">NEW GAME</string>
+	<string name="SoundOn">SOUND ON</string>
+	<string name="SoundOff">SOUND OFF</string>
+	<string name="MusicOn">MUSIC ON</string>
+	<string name="MusicOff">MUSIC OFF</string>
+	<string name="ReturnMenu">BACK TO MENU</string>
+	<string name="MoreGames">MORE GAMES</string>
+	<string name="BestCombo">BEST COMBO</string>
+	<string name="Accuracy">ACCURACY</string>
+	<string name="BestMultiplier">BEST MULTIPLIER</string>
+
+	<string name="Continue">CONTINUE?</string>
+	<string name="ContinueCost">COSTS 1000 COINS</string>
+	<string name="Store">STORE</string>
+	<string name="Yes">YES</string>
+	<string name="No">NO</string>
+	<string name="Logo">LINESWEEPER</string>
+
+
+	<string name="NotEnoughCurrency">Not enough coins!\nYou can purchase additional coins in the store</string>
+	<string name="ImmersiveOn">IMMERSIVE ON</string>
+	<string name="ImmersiveOff">IMMERSIVE OFF</string>
+	<string name="BGSpinOn">BACKGROUND SPIN ON</string>
+	<string name="BGSpinOff">BACKGROUND SPIN OFF</string>
+	<string name="ZoomOn">ZOOM EFFECT ON</string>
+	<string name="ZoomOff">ZOOM EFFECT OFF</string>
+	<string name="RemoveAds">REMOVE ADS</string>
+	<string name="Coins">COINS</string>
+	<string name="Scores">SCORES</string>
+	<string name="Upgrades">UPGRADES</string>
+	<string name="Upgrade">UPGRADE</string>
+	<string name="Gametype1">ARCADE</string>
+	<string name="Gametype1D">Arcade gamemode features fast paced gameplay with different bonuses that help you along the way!</string>
+	<string name="Gametype1T">TIP: Use the upgrade button below to upgrade certain game elements!</string>
+	<string name="Gametype2">MINESWEEPER</string>
+	<string name="Gametype2D">Minesweeper gamemode doesn\'t forgive mistakes! All it takes is one wrong tap and its gameover!</string>
+	<string name="Gametype2T">TIP: Use the upgrade button below to give yourself a second chance!</string>
+	<string name="Gametype3">TIME ATTACK</string>
+	<string name="Gametype3D">Time Attack mode gives you a limited amount of time and your goal is to remove as many lines as possible before the timer runs out</string>
+	<string name="Gametype3T">TIP: Use the upgrade button below to increase the time limit and get other bonuses</string>
+	<string name="Gametype4">ENDLESS</string>
+	<string name="Gametype4D">Endless game mode takes the pressure off. Just remove lines until you get bored. No bombs, no time limit and nothing to worry about</string>
+	<string name="Gametype4T"></string>
+	<string name="Next">NEXT</string>
+	<string name="Previous">PREVIOUS</string>
+	<string name="Install">INSTALL</string>
+	<string name="Cost">Cost:</string>
+	<string name="ArcadeUpgrades">ARCADE: UPGRADES</string>
+	<string name="ShareMessage1">I got</string>
+	<string name="ShareMessage2">in #Lines!</string>
+	<string name="ShareMode1">Arcade mode.</string>
+	<string name="ShareMode2">Time Attack mode.</string>
+	<string name="ShareMode3">Minesweeper mode.</string>
+	<string name="ShareMessage3">See if you can beat me! Get it here: http://bit.ly/ZNNDqI </string>
+	<string name="Leaderboards">SCORES</string>
+	<string name="Achievements">ACHIEVEMENTS</string>
+	<string name="SignOut">SIGN OUT</string>
+	<string name="ExtraLives">EXTRA LIVES</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="ArcagonT">ARCAGON</string>
+    <string name="ArcagonD">Arcagon is a casual/arcade type of game. It\'s real easy to learn, but hard to master. It has colorful graphics, great music and addictive gameplay!</string>
+	<string name="SudokuT">SIMPLY SUDOKU</string>
+    <string name="SudokuD">Simply Sudoku is a game about solving sudoku puzzles that you know and love. It features clean sleek design, plenty of puzzles and lots of customization options.</string>
+  	<string name="TangledT">TANGLED</string>
+    <string name="TangledD">Tangled is a game designed for fans of Entanglement on the PC platform. It features clean design, lots of level grids and has tons of customizations. \n\nWhy not have a look!.\nPrice: FREE</string>
+	 <string name="WormsyT">WORMSY</string>
+    <string name="WormsyD">Wormsy is a puzzle game where you need to help a worm escape from its maze. Find the shortest way out by pushing other worms and activating gates and other items!</string>
+	
+	
+	
+</resources>
